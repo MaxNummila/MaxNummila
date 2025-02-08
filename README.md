@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me maxnummila@gmail.com
 - 😄 Pronouns: ...
-- ⚡ Fun fact: Turtles can't use microwaves on tuesdays
+- ⚡ Fun fact: I often forget to use this app
 
 <!---
 MaxNummila/MaxNummila is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
