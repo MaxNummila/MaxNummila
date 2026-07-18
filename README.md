@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @MaxNummila
-- 👀 I’m interested in Cloud computing and cybersecurity
+- 👀 I’m interested in Cloud computing and cyber security
 - 💻 I’m currently studying a masters in computer engineering
+- 💼 I'm currently working as a Junior System Specialist
 - 🔧 Currently getting into Azure based on my AWS knowledge
 - 📫 How to reach me maxnummila@gmail.com
 - 🌏 I speak 🇫🇮, 🇸🇪, 🇬🇧 and a very small bit of 🇩🇪
